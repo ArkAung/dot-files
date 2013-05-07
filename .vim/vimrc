@@ -49,11 +49,11 @@ set showmatch    " Show matching bracets when text indic
 set autoindent   " Copy indent form current when starting a new line
 set smartindent
 
-set tabstop=2
-set shiftwidth=2
+set tabstop=1
+set shiftwidth=1
 set expandtab     " Convert Tabs into Spaces
 set softtabstop=4 " Tab conversion to number of spaces
-set shiftwidth=4  " Auto-indent amount
+set shiftwidth=2  " Auto-indent amount
 set shiftround    " When at 3 spaces, when I hit > .. go to 4, not 5
 set smarttab
 
